@@ -1,0 +1,28 @@
+const { Pool } = require('pg')
+
+const DbConfig = {
+    user: 'postgres',
+    host: 'localhost',
+    database: 'zombieplus',
+    password: '123456',
+    port: 5432
+}
+
+async function executeSQL(sqlScript) {
+
+    try {
+
+        const pool = new Pool(DbConfig)
+        const client = await pool.connect()
+        const result = await client.query(sqlScript)
+        console.log(result.rows)
+
+       
+
+    } catch(error) {
+
+        console.log('Erro ao executar SQL: ' + error)
+    }
+}
+
+module.exports = { executeSQL }

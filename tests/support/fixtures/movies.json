@@ -1,0 +1,82 @@
+{
+  "create": {
+    "title": "Guerra Mundial Z",
+    "overview": "Um ex-investigador da ONU percorre o mundo tentando deter uma pandemia que transforma humanos em zumbis vorazes.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "featured": false,
+    "cover": "/caminho/para/guerra_mundial_z.png"
+  },
+  "exterminio": {
+    "title": "Extermínio",
+    "overview": "Após um vírus mortal devastar o Reino Unido, um grupo de sobreviventes luta para escapar de hordas de infectados.",
+    "company": "Fox Searchlight Pictures",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "/caminho/para/exterminio.png"
+  },
+  "resident_evil": {
+    "title": "Resident Evil: O Hóspede Maldito",
+    "overview": "Uma equipe militar é enviada para conter um vazamento viral em um laboratório subterrâneo, enfrentando zumbis e mutações letais.",
+    "company": "Screen Gems",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "/caminho/para/resident_evil.png"
+  },
+  "todo_mundo_quase_morto": {
+    "title": "Todo Mundo Quase Morto",
+    "overview": "Shaun tenta reconquistar sua ex e resolver a vida no meio de um apocalipse zumbi em Londres.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "/caminho/para/todo_mundo_quase_morto.png"
+  },
+  "o_exercito_dos_mortos": {
+    "title": "O Exército dos Mortos",
+    "overview": "Após um surto zumbi em Las Vegas, um grupo de mercenários é contratado para realizar o maior assalto de todos os tempos.",
+    "company": "Netflix",
+    "release_year": 2021,
+    "featured": true,
+    "cover": "/caminho/para/o_exercito_dos_mortos.png"
+  },
+  "zumbilandia": {
+    "title": "Zumbilândia",
+    "overview": "Um grupo improvável de sobreviventes percorre os Estados Unidos em busca de segurança e Twinkies em meio ao apocalipse zumbi.",
+    "company": "Columbia Pictures",
+    "release_year": 2009,
+    "featured": false,
+    "cover": "/caminho/para/zumbilandia.png"
+  },
+  "madrugada_dos_mortos": {
+    "title": "Madrugada dos Mortos",
+    "overview": "Um grupo de sobreviventes busca abrigo em um shopping enquanto o mundo é tomado por mortos-vivos.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "/caminho/para/madrugada_dos_mortos.png"
+  },
+  "planeta_terror": {
+    "title": "Planeta Terror",
+    "overview": "Durante um ataque biológico, os sobreviventes enfrentam hordas de zumbis grotescos em uma pequena cidade do Texas.",
+    "company": "Dimension Films",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "/caminho/para/planeta_terror.png"
+  },
+  "cargo": {
+    "title": "Cargo",
+    "overview": "Após um vírus mortal se espalhar, um pai tenta salvar sua filha antes de se transformar em zumbi.",
+    "company": "Netflix",
+    "release_year": 2017,
+    "featured": false,
+    "cover": "/caminho/para/cargo.png"
+  },
+  "train_to_busan": {
+    "title": "Train to Busan",
+    "overview": "Durante uma viagem de trem, os passageiros lutam para sobreviver quando um vírus zumbi se espalha pela Coreia do Sul.",
+    "company": "Next Entertainment World",
+    "release_year": 2016,
+    "featured": true,
+    "cover": "/caminho/para/train_to_busan.png"
+  }
+}
