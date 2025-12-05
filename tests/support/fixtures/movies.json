@@ -1,0 +1,91 @@
+{
+  "guerra_mundial_z": {
+    "title": "Guerra Mundial Z",
+    "overview": "Um ex-investigador da ONU percorre o mundo para impedir uma pandemia global de zumbis extremamente velozes.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "featured": false,
+    "cover": "images/guerra_mundial_z.png"
+  },
+
+  "resident_evil_o_hospede_maldito": {
+    "title": "Resident Evil: O Hóspede Maldito",
+    "overview": "Um vírus escapa de um laboratório subterrâneo e transforma pessoas em criaturas mortais, levando uma equipe especial a investigar.",
+    "company": "Screen Gems",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "images/resident_evil_o_hospede_maldito.png"
+  },
+
+  "madrugada_dos_mortos": {
+    "title": "Madrugada dos Mortos",
+    "overview": "Um grupo de sobreviventes se esconde em um shopping enquanto hordas de zumbis tomam o mundo.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "images/madrugada_dos_mortos.png"
+  },
+
+  "exterminio": {
+    "title": "Extermínio",
+    "overview": "Um vírus extremamente contagioso colapsa o Reino Unido, forçando sobreviventes a lutar por suas vidas.",
+    "company": "Fox Searchlight Pictures",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "images/exterminio.png"
+  },
+
+  "exterminio_2": {
+    "title": "Extermínio 2",
+    "overview": "A população tenta se reerguer após o surto, mas uma nova contaminação reacende o caos.",
+    "company": "Fox Atomic",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "images/exterminio_2.png"
+  },
+
+  "zumbilandia": {
+    "title": "Zumbilândia",
+    "overview": "Um grupo improvável de sobreviventes cruza os EUA enfrentando zumbis com humor e estratégia.",
+    "company": "Columbia Pictures",
+    "release_year": 2009,
+    "featured": false,
+    "cover": "images/zumbilandia.png"
+  },
+
+  "zumbilandia_2": {
+    "title": "Zumbilândia: Atire Duas Vezes",
+    "overview": "A mesma equipe retorna anos depois enfrentando novos tipos de zumbis e novos desafios.",
+    "company": "Columbia Pictures",
+    "release_year": 2019,
+    "featured": false,
+    "cover": "images/zumbilandia_2.png"
+  },
+
+  "a_noite_dos_mortos_vivos": {
+    "title": "A Noite dos Mortos-Vivos",
+    "overview": "Zumbis cercam sobreviventes em uma casa isolada, marcando o início do gênero moderno.",
+    "company": "Continental Distributing",
+    "release_year": 1968,
+    "featured": false,
+    "cover": "images/a_noite_dos_mortos_vivos.png"
+  },
+
+  "guerra_dos_mundos_zumbi": {
+    "title": "Guerra dos Mundos Zumbi",
+    "overview": "Uma praga misteriosa transforma a população em mortos-vivos enquanto sobreviventes tentam resistir ao colapso.",
+    "company": "The Asylum",
+    "release_year": 2015,
+    "featured": false,
+    "cover": "images/guerra_dos_mundos_zumbi.png"
+  },
+
+  "peninsula": {
+    "title": "Peninsula",
+    "overview": "Quatro anos após o surto inicial, a península coreana está devastada e tomada por zumbis.",
+    "company": "Next Entertainment World",
+    "release_year": 2020,
+    "featured": false,
+    "cover": "images/peninsula.png"
+  }
+}
