@@ -32,20 +32,18 @@ zombieplus/
 └── package.json
 
 ▶️ Como executar
+
 1️⃣ Instalar dependências
-bash
-Copiar código
-npm install
+
+- npm install
 
 2️⃣ Executar os testes (modo headless)
-bash
-Copiar código
-npx playwright test
+
+- npx playwright test
 
 3️⃣ Visualizar o relatório dos testes
-bash
-Copiar código
-npx playwright show-report
+
+- npx playwright show-report
 
 📌 Status do projeto
 🚧 Em desenvolvimento
