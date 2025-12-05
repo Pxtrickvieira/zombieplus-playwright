@@ -1,42 +1,52 @@
-🧟‍♂️ ZombiePlus – Testes Automatizados (Playwright)
+# 🧪 ZombiePlus – Testes Automatizados (Playwright)
 
-Este repositório contém a suíte de testes automatizados do ZombiePlus, um projeto ainda em evolução voltado para estudos avançados de automação de testes end-to-end.
+Este repositório contém a suíte de testes automatizados do **ZombiePlus**,  
+um projeto ainda em evolução voltado para estudos avançados de automação de testes end-to-end.
 
-O foco principal é garantir a qualidade do fluxo de login, cadastro de filmes, pré-cadastro de leads e validação visual de componentes essenciais da aplicação.
+O foco principal é garantir a qualidade dos fluxos de:
+- Login  
+- Cadastro de filmes  
+- Pré-cadastro de leads  
+- Validação visual e funcional de componentes essenciais da aplicação  
 
- – Tecnologias utilizadas
+---
 
-Playwright
+## 🛠 Tecnologias utilizadas
+- **Playwright**
+- **Node.js**
+- **JavaScript 
+- **Faker.js** 
+- **PostgreSQL** 
+- **GitHub Actions** 
+---
 
-Node.js
+## 📁 Estrutura do projeto
 
-JavaScript 
-Faker.js 
-
-PostgreSQL 
-
-GitHub Actions 
-
-📁 Estrutura do projeto
+```text
 zombieplus/
-│── pages/ → Page Objects (POM)
+│── pages/                 → Page Objects (POM)
 │── tests/
-│ └── e2e/ → Cenários de testes
-│── support/ → Fixtures, DB, utilitários
+│    └── e2e/              → Cenários de testes
+│── support/               → Fixtures, DB, utilitários
 │── playwright.config.js
 └── package.json
 
-- Como executar
+▶️ Como executar
 1️⃣ Instalar dependências
+bash
+Copiar código
 npm install
 
 2️⃣ Executar os testes (modo headless)
+bash
+Copiar código
 npx playwright test
 
 3️⃣ Visualizar o relatório dos testes
+bash
+Copiar código
 npx playwright show-report
 
 📌 Status do projeto
-
-🔧 Em desenvolvimento
-Novas funcionalidades, cenários e integrações continuam sendo adicionadas conforme o avanço dos estudos e práticas de QA.
+🚧 Em desenvolvimento
+Novas funcionalidades, cenários e integrações continuam sendo adicionados conforme o avanço dos estudos e práticas de QA.
