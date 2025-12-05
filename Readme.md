@@ -6,26 +6,25 @@ O foco principal é garantir a qualidade do fluxo de login, cadastro de filmes, 
 
  – Tecnologias utilizadas
 
-Playwright (E2E Testing)
+Playwright
 
 Node.js
 
-JavaScript (ES Modules)
+JavaScript 
+Faker.js 
 
-Faker.js (geração de massa de dados)
+PostgreSQL 
 
-PostgreSQL (validação e limpeza de massa via SQL)
-
-GitHub Actions (pipeline de testes – em andamento)
+GitHub Actions 
 
 📁 Estrutura do projeto
 zombieplus/
- ├── pages/               → Page Objects (POM)
- ├── tests/
- │   ├── e2e/             → Cenários de testes
- │   └── support/         → Fixtures, DB, utilitários
- ├── playwright.config.js
- └── package.json
+│── pages/ → Page Objects (POM)
+│── tests/
+│ └── e2e/ → Cenários de testes
+│── support/ → Fixtures, DB, utilitários
+│── playwright.config.js
+└── package.json
 
 - Como executar
 1️⃣ Instalar dependências
